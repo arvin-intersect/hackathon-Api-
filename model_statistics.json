@@ -1,0 +1,39 @@
+{
+  "features": [
+    "Technology_Usage_Hours",
+    "Social_Media_Usage_Hours",
+    "Gaming_Hours",
+    "Screen_Time_Hours",
+    "Sleep_Hours",
+    "Physical_Activity_Hours"
+  ],
+  "target": "Stress_Level",
+  "stress_mapping": {
+    "Low": 0,
+    "Medium": 1,
+    "High": 2
+  },
+  "reverse_mapping": {
+    "0": "Low",
+    "1": "Medium",
+    "2": "High"
+  },
+  "accuracy": 0.9975,
+  "training_date": "2025-11-14 22:43:25",
+  "correlations": {
+    "Physical Activity Hours": -0.837830889269115,
+    "Gaming Hours": 0.8457583584204861,
+    "Social Media Usage Hours": 0.8559598019064901,
+    "Sleep Hours": -0.8687572277054169,
+    "Technology Usage Hours": 0.8709534996925302,
+    "Screen Time Hours": 0.9402817457510879
+  },
+  "feature_importance": {
+    "Technology_Usage_Hours": 0.1013780099791087,
+    "Social_Media_Usage_Hours": 0.1708453367847178,
+    "Gaming_Hours": 0.02692342356125073,
+    "Screen_Time_Hours": 0.3829157768705598,
+    "Sleep_Hours": 0.20294004713095065,
+    "Physical_Activity_Hours": 0.11499740567341234
+  }
+}
