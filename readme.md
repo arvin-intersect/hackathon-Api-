@@ -1,6 +1,5 @@
 # 🌟 Flow Habits AI: Digital Well-being Prediction API 🌟
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Hackathon%20Project-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Framework](https://img.shields.io/badge/Framework-Flask-black.svg)
