@@ -312,4 +312,6 @@ Flow Habits AI operates through a sophisticated, yet intuitive, flow:
 - **Deployment**: Docker (recommended for production, not explicitly in files but implied by 0.0.0.0 host)
 - **Programming Language**: Python 3.9+
 
-## 
+All the code components are publicly available at https://github.com/arvin-intersect/hackathon-Api-
+
+
