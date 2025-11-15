@@ -269,17 +269,6 @@ As a hackathon project, Flow Habits AI has immense potential for growth:
 - **Dynamic Task Generation**: Integrate a more sophisticated task generation engine that considers user preferences, time of day, and external factors.
 - **Explainable AI (XAI)**: Provide more transparent explanations for predictions and recommendations.
 
-## 👋 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🙏 Acknowledgments
-
-Developed for the **Arvin Intersect Hackathon** by **Agentic Force**. Special thanks to all contributors and the open-source community for their invaluable tools and libraries.
 
 ---
 
@@ -287,7 +276,7 @@ Developed for the **Arvin Intersect Hackathon** by **Agentic Force**. Special th
 
 ## 🚀 Project Overview
 
-Welcome to the backend of **Flow Habits AI**, an innovative solution designed to empower individuals to master their digital well-being. Developed for the **Arvin Intersect Hackathon** by **Agentic Force**, this API leverages machine learning to predict user stress levels based on digital habits and provides hyper-personalized, gamified recommendations to foster healthier digital behaviors.
+Welcome to the backend of **Flow Habits AI**, an innovative solution designed to empower individuals to master their digital well-being. Developed for the **BITS Hackathon** by **Arvin Subramanian,Demont Fort University Team - Agentic Force**, this API leverages machine learning to predict user stress levels based on digital habits and provides hyper-personalized, gamified recommendations to foster healthier digital behaviors.
 
 In an era where the average individual spends increasing hours on screens, leading to elevated stress and decreased productivity, Flow Habits AI offers a data-driven approach. It analyzes usage patterns (like screen time, social media, sleep, and physical activity) to not only identify potential stress but also guide users towards mindfulness and balance through actionable tasks, insights, and engaging challenges.
 
